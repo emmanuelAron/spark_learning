@@ -40,12 +40,6 @@ Introduction aux **Resilient Distributed Datasets** (RDD).
 
 ---
 
-### **5. Intégration avec Databricks**
-- Utilisation de **Databricks** pour exécuter des notebooks Spark.
-- Concepts communs entre **Java**, **Scala** et **PySpark**.
-
----
-
 ## 🛠️ Technologies utilisées
 
 - **Java 17**
@@ -61,7 +55,7 @@ Introduction aux **Resilient Distributed Datasets** (RDD).
 - Comprendre les concepts fondamentaux de **Spark**.
 - Manipuler **DataFrames**, **RDD** et **SparkSQL**.
 - Découvrir le **Structured Streaming**.
-- S’entraîner pour la certification **Databricks Certified Associate Developer for Apache Spark 3**.
+- S’entraîner pour la certification **Databricks Certified Associate Developer for Apache Spark 4**.
 
 ---
 
