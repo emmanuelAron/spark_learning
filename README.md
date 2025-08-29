@@ -1,7 +1,7 @@
 # 🚀 Spark Learning (Java)
 
-Projet de formation pour apprendre **Apache Spark** en **Java**, basé sur les mêmes concepts qu'en **Scala** et **PySpark**.  
-L’objectif est de manipuler les principales fonctionnalités de Spark : **DataFrames**, **RDDs**, **SparkSQL**, **Streaming** et l'utilisation de **Databricks**.
+Projet de formation pour apprendre/revoir **Apache Spark** en **Java**, basé sur les mêmes concepts qu'en **Scala** et **PySpark**.  
+L’objectif est de manipuler les principales fonctionnalités de Spark : **DataFrames**, **RDDs**, **SparkSQL**, **Streaming** .
 
 ---
 
